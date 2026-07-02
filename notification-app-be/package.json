@@ -1,0 +1,12 @@
+{
+  "name": "notification-app-be",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Stage 6 priority inbox backend for the campus evaluation notification task.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js"
+  }
+}
